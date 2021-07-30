@@ -7,10 +7,10 @@ PUT used for object update
 DELETE used for object deletion.
 
 To implement this API, we will use;
-Postman
-Python
-Flask
-MongoDB
+1.Postman
+2.Python
+3.Flask
+4.MongoDB
 
 When you request the http://localhost:5000/api/v1.0/students url on the browser you will get this:
 http://0.0.0.0:5000/api/v1.0/students
